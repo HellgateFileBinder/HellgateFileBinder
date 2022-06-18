@@ -6,4 +6,4 @@ Multi-file downloader
 Encrypt binded files
 Compress binded files
 Custom Assembly
-Custom Icon```
+Custom Icon
