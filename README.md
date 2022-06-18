@@ -6,7 +6,8 @@
 
 ![image](https://user-images.githubusercontent.com/107679019/174429898-4cc2de55-0223-4076-a34d-f2ff0391256c.png)
 ![image](https://user-images.githubusercontent.com/107679019/174429996-5c7ab1d9-dd2a-4db8-a015-213198f48d1d.png)
-![image](https://user-images.githubusercontent.com/107679019/174430009-16b14c09-8d34-438f-a28f-7edca75469f8.png)
+![image](https://user-images.githubusercontent.com/107679019/174430165-525934e0-5dc3-4776-8991-b6360344701f.png)
+
 
 # Features
 ```Multi-file binder
